@@ -1,0 +1,30 @@
+MUTUAL NON-DISCLOSURE AGREEMENT
+
+This Mutual Non-Disclosure Agreement ("Agreement") is made as of January 15, 2025 between Globex Corporation and Northwind Retail Inc. (each a "Party"). This is a synthetic sample contract created for demonstration purposes.
+
+1. PURPOSE
+The Parties wish to evaluate a potential supply chain partnership (the "Purpose") and may disclose Confidential Information to each other for that Purpose only.
+
+2. CONFIDENTIAL INFORMATION
+"Confidential Information" means non-public business, technical, or financial information disclosed by either Party that is marked confidential or would reasonably be understood to be confidential.
+
+3. OBLIGATIONS
+Each Party shall use the other Party's Confidential Information solely for the Purpose, restrict access to employees with a need to know, and protect it with at least the same degree of care it uses for its own confidential information, but no less than reasonable care.
+
+4. EXCLUSIONS
+Confidential Information does not include information that is publicly available, already known to the recipient, independently developed, or lawfully received from a third party without restriction.
+
+5. TERM
+This Agreement remains in effect for two (2) years from the Effective Date. Confidentiality obligations survive for three (3) years after termination.
+
+6. TERMINATION
+Either Party may terminate this Agreement upon thirty (30) days written notice to the other Party.
+
+7. RETURN OF MATERIALS
+Upon termination or written request, each Party shall promptly return or destroy the other Party's Confidential Information.
+
+8. LIMITATION OF LIABILITY
+Except for breaches of confidentiality, neither Party's aggregate liability under this Agreement shall exceed fifty thousand dollars ($50,000). Neither Party shall be liable for indirect or consequential damages.
+
+9. GOVERNING LAW
+This Agreement is governed by the laws of the State of Delaware.

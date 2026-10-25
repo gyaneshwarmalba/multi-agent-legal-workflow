@@ -1,0 +1,73 @@
+{
+  "version": "2025-01",
+  "approval_required_levels": ["high"],
+  "checks": [
+    {
+      "id": "CAP-LIABILITY",
+      "title": "Liability is capped",
+      "severity": "high",
+      "type": "require",
+      "clause_keyword": "liabilit",
+      "patterns": ["shall not exceed", "aggregate liability", "total liability"]
+    },
+    {
+      "id": "NO-CONSEQUENTIAL",
+      "title": "Mutual exclusion of consequential damages",
+      "severity": "high",
+      "type": "require",
+      "clause_keyword": "liabilit",
+      "patterns": ["neither party shall be liable for indirect"]
+    },
+    {
+      "id": "MUTUAL-TERMINATION",
+      "title": "Counterparty cannot terminate for convenience unilaterally",
+      "severity": "high",
+      "type": "prohibit",
+      "clause_keyword": "terminat",
+      "patterns": ["(provider|vendor|supplier) may terminate this agreement at any time", "for any reason"]
+    },
+    {
+      "id": "DATA-USE",
+      "title": "Data used only on our documented instructions",
+      "severity": "high",
+      "type": "prohibit",
+      "clause_keyword": "",
+      "patterns": ["use (customer|subscriber) data to improve", "share .*data with its affiliates", "sell .*data"]
+    },
+    {
+      "id": "BREACH-NOTICE",
+      "title": "Security breach notification within 72 hours",
+      "severity": "medium",
+      "type": "require",
+      "clause_keyword": "data protection",
+      "if_missing": "not_applicable",
+      "patterns": ["notify .* breach within .*\\(72\\) hours", "notify .* breach within .*\\(48\\) hours", "notify .* breach within .*\\(24\\) hours"]
+    },
+    {
+      "id": "NO-AUTO-RENEWAL",
+      "title": "No automatic renewal",
+      "severity": "medium",
+      "type": "prohibit",
+      "clause_keyword": "",
+      "patterns": ["automatically renew"]
+    },
+    {
+      "id": "PAYMENT-TERMS",
+      "title": "Payment terms of at least 30 days",
+      "severity": "medium",
+      "type": "min_number",
+      "clause_keyword": "pay",
+      "pattern": "within [\\w-]+ \\((\\d+)\\) days",
+      "minimum": 30
+    },
+    {
+      "id": "GOVERNING-LAW",
+      "title": "Governing law on the approved list",
+      "severity": "low",
+      "type": "allowed_values",
+      "clause_keyword": "governing law",
+      "pattern": "laws of the state of ([a-z ]+?)[.,]",
+      "allowed": ["oregon", "delaware", "washington"]
+    }
+  ]
+}
