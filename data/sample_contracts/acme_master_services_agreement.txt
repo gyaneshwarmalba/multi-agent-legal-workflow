@@ -1,0 +1,37 @@
+MASTER SERVICES AGREEMENT
+
+This Master Services Agreement ("Agreement") is entered into as of March 1, 2025 between Acme Analytics LLC ("Provider") and Northwind Retail Inc. ("Customer"). This is a synthetic sample contract created for demonstration purposes.
+
+1. DEFINITIONS
+"Services" means the data analytics and reporting services described in each Statement of Work. "Deliverables" means the reports, dashboards, and documentation delivered by Provider under a Statement of Work.
+
+2. SERVICES
+2.1 Provider shall perform the Services described in each Statement of Work executed by both parties.
+2.2 Provider may subcontract any portion of the Services without prior notice to Customer.
+
+3. TERM AND RENEWAL
+This Agreement begins on the Effective Date and continues for an initial term of two (2) years. Thereafter, this Agreement shall automatically renew for successive one (1) year terms unless either party provides written notice of non-renewal at least ninety (90) days before the end of the then-current term.
+
+4. FEES AND PAYMENT
+4.1 Customer shall pay all invoices within fifteen (15) days of the invoice date.
+4.2 Late payments accrue interest at two percent (2%) per month.
+4.3 Provider may increase fees at any time upon thirty (30) days written notice.
+
+5. TERMINATION
+5.1 Provider may terminate this Agreement at any time, for any reason, upon ten (10) days written notice.
+5.2 Customer may terminate this Agreement only for material breach that remains uncured for sixty (60) days after written notice.
+
+6. CONFIDENTIALITY
+Each party shall protect the other party's Confidential Information using at least reasonable care and shall not disclose it to third parties except as required to perform this Agreement.
+
+7. INDEMNIFICATION
+Customer shall indemnify, defend, and hold harmless Provider from any and all claims, losses, and damages arising out of or relating to the Services, without limitation.
+
+8. LIMITATION OF LIABILITY
+Customer shall be liable for all direct, indirect, incidental, and consequential damages arising from its use of the Deliverables. Provider's obligations under this Agreement are provided on a best-efforts basis.
+
+9. DATA PROTECTION
+Provider may use Customer data to improve its products and may share aggregated Customer data with its affiliates.
+
+10. GOVERNING LAW
+This Agreement is governed by the laws of the State of New York. Any dispute shall be resolved exclusively by binding arbitration in New York, New York.

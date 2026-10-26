@@ -1,0 +1,4 @@
+# LLM_PROVIDER=bedrock
+boto3>=1.35.0
+# Optional: LangSmith tracing of every graph step (set LANGSMITH_TRACING=true and LANGSMITH_API_KEY)
+langsmith>=0.1

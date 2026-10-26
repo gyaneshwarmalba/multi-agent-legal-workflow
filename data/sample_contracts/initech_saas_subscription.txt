@@ -1,0 +1,30 @@
+SAAS SUBSCRIPTION AGREEMENT
+
+This SaaS Subscription Agreement ("Agreement") is entered into as of June 1, 2025 between Initech Cloud Inc. ("Vendor") and Northwind Retail Inc. ("Subscriber"). This is a synthetic sample contract created for demonstration purposes.
+
+1. SUBSCRIPTION
+Vendor grants Subscriber a non-exclusive, non-transferable right to access and use the Initech platform during the Subscription Term for up to 500 named users.
+
+2. SERVICE LEVELS
+Vendor shall make the platform available 99.9% of the time each calendar month, excluding scheduled maintenance. If availability falls below this commitment, Subscriber is entitled to service credits as described in Exhibit A.
+
+3. FEES AND PAYMENT
+Subscriber shall pay annual subscription fees in advance. Invoices are due within forty-five (45) days of receipt. Fees are fixed for the initial Subscription Term.
+
+4. TERM AND RENEWAL
+The initial Subscription Term is three (3) years. The Agreement renews only upon a written renewal order signed by both parties.
+
+5. TERMINATION
+Either party may terminate this Agreement for material breach that is not cured within thirty (30) days after written notice. Subscriber may terminate for convenience upon ninety (90) days written notice.
+
+6. DATA PROTECTION
+Vendor shall process Subscriber data only on documented instructions from Subscriber, maintain SOC 2 Type II certification, and notify Subscriber of any security breach within seventy-two (72) hours of discovery. Upon termination, Vendor shall delete Subscriber data within thirty (30) days.
+
+7. INDEMNIFICATION
+Vendor shall indemnify Subscriber against third-party claims alleging that the platform infringes any intellectual property right.
+
+8. LIMITATION OF LIABILITY
+Each party's total liability under this Agreement shall not exceed the fees paid by Subscriber in the twelve (12) months preceding the claim. Neither party shall be liable for indirect, special, or consequential damages.
+
+9. GOVERNING LAW
+This Agreement is governed by the laws of the State of Oregon.
